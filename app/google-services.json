@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918220987890",
+    "project_id": "factura-614d9",
+    "storage_bucket": "factura-614d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918220987890:android:45e25dc0f6c0c227421f6b",
+        "android_client_info": {
+          "package_name": "com.example.factura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ZBR6Ha6nJMUp4mglZbY9XENZjrHguAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
