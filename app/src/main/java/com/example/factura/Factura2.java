@@ -44,7 +44,7 @@ public class Factura2 extends AppCompatActivity {
 }
 public int precio(int a, int b){
 
-        return a*1000+b*500;
+        return a*800+b*500;
 }
 
 }
